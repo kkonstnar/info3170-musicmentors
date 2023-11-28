@@ -1,12 +1,13 @@
 
 import './App.css'
 import HomePage from './Homepage'
+import TeacherList from './tutorlist'
 
 function App(){
   return (
     
       <div>
-        <HomePage/>
+        <TeacherList/>
       </div>
     
   )
